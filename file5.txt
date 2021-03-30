@@ -1,5 +1,2 @@
 <<<<<<< HEAD
 added file5.txt in master branch
-=======
-added file5.txt on feature branch
->>>>>>> feature
